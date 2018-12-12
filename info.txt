@@ -1,0 +1,1 @@
+这个文件位于devlop分支下，使用git checkout master切换到master分支后，ls查看不到这个文件(info.txt);
